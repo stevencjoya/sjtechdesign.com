@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="860px" height="761px" viewBox="0 0 860 761" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49 (51002) - http://www.bohemiancoding.com/sketch -->
+    <title>Software Guides Container@2x</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Software-Guides" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop" transform="translate(-82.000000, -185.000000)">
+            <g id="Software-Guides-Container" transform="translate(82.000000, 181.000000)">
+                <rect id="Thumbnail-Container" fill="#666666" x="0" y="336.121252" width="860" height="428.878748"></rect>
+                <text id="Equine-Angels-Rescue" font-family="AvenirNext-Bold, Avenir Next, Arial" font-size="20" font-weight="bold">
+                    <tspan x="0" y="307.249022" fill="#B8E986">Equine Angels Rescue Sanctuary: </tspan>
+                    <tspan x="325.84" y="307.249022" fill="#FFFFFF">Systems Analysis</tspan>
+                    <tspan x="490.44" y="307.249022" font-family="AvenirNext-Regular, Avenir Next, Arial" font-weight="normal" fill="#FFFFFF"> </tspan>
+                </text>
+                <text id="Livestream:-User’s-G" font-family="AvenirNext-Bold, Avenir Next, Arial" font-size="20" font-weight="bold">
+                    <tspan x="0" y="259.374185" fill="#B8E986">Livestream: </tspan>
+                    <tspan x="117.38" y="259.374185" fill="#FFFFFF">User’s Guide</tspan>
+                    <tspan x="240.04" y="259.374185" font-family="AvenirNext-Regular, Avenir Next, Arial" font-weight="normal" fill="#FFFFFF"> </tspan>
+                </text>
+                <text id="Movable-Ink:-Quick-R" font-family="AvenirNext-Bold, Avenir Next, Arial" font-size="20" font-weight="bold">
+                    <tspan x="0" y="211.499348" fill="#B8E986">Movable Ink: </tspan>
+                    <tspan x="132.68" y="211.499348" fill="#FFFFFF">Quick Reference Card - Rules Engine</tspan>
+                    <tspan x="485.42" y="211.499348" font-family="AvenirNext-Regular, Avenir Next, Arial" font-weight="normal" fill="#FFFFFF"> </tspan>
+                </text>
+                <text id="Movable-Ink:-Quick-R" font-family="AvenirNext-Bold, Avenir Next, Arial" font-size="20" font-weight="bold">
+                    <tspan x="0" y="163.624511" fill="#B8E986">Movable Ink: </tspan>
+                    <tspan x="132.68" y="163.624511" fill="#FFFFFF">Quick Reference Card - Countdown Timer</tspan>
+                    <tspan x="534.06" y="163.624511" font-family="AvenirNext-Regular, Avenir Next, Arial" font-weight="normal" fill="#FFFFFF"> </tspan>
+                </text>
+                <text id="Movable-Ink:-Getting" font-family="AvenirNext-Bold, Avenir Next, Arial" font-size="20" font-weight="bold">
+                    <tspan x="0" y="115.749674" fill="#B8E986">Movable Ink: </tspan>
+                    <tspan x="132.68" y="115.749674" fill="#FFFFFF">Getting Started Guide - Rules Engine</tspan>
+                    <tspan x="487.02" y="115.749674" font-family="AvenirNext-Regular, Avenir Next, Arial" font-weight="normal" fill="#FFFFFF"> </tspan>
+                    <tspan x="0" y="142.749674" font-family="AvenirNext-Regular, Avenir Next, Arial" font-size="19.1578947" font-weight="normal" fill="#FFFFFF"> </tspan>
+                </text>
+                <text id="Movable-Ink:-Getting-Started-Guide---Countdown-Timer--" font-family="AvenirNext-Bold, Avenir Next, Arial" font-size="20" font-weight="bold">
+                    <tspan x="0" y="67.874837" fill="#B8E986">Movable Ink: </tspan>
+                    <tspan x="132.68" y="67.874837" fill="#FFFFFF">Getting Started Guide - Countdown Timer</tspan>
+                    <tspan x="535.66" y="67.874837" font-family="AvenirNext-Regular, Avenir Next, Arial" font-weight="normal" fill="#FFFFFF"> </tspan>
+                    <tspan x="0" y="94.874837" font-family="AvenirNext-Regular, Avenir Next, Arial" font-weight="normal" fill="#FFFFFF"> </tspan>
+                </text>
+                <text id="Movable-Ink:-User’s" font-family="AvenirNext-Bold, Avenir Next, Arial" font-size="20" font-weight="bold">
+                    <tspan x="0" y="20" fill="#B8E986">Movable Ink: </tspan>
+                    <tspan x="132.68" y="20" fill="#FFFFFF">User’s Guide - Image Slicing</tspan>
+                    <tspan x="403.26" y="20" font-family="AvenirNext-Regular, Avenir Next, Arial" font-weight="normal" fill="#FFFFFF"> </tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>
