@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="33px" height="25px" viewBox="0 0 33 25" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49 (51002) - http://www.bohemiancoding.com/sketch -->
+    <title>Email@3x</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Product-Videos" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop" transform="translate(-854.000000, -128.000000)" fill="#FFFFFF">
+            <g id="Email" transform="translate(854.000000, 128.000000)">
+                <g id="Inverse">
+                    <path d="M32.3529412,3.19181994 L17.4037856,14.6363017 C16.7629601,15.1515742 15.645654,15.152868 14.9998501,14.6350637 L-5.55111512e-17,3.05731444 L0,0.995457033 C0,0.445681294 0.457351348,0 1.00373626,0 L31.3492049,0 C31.9035531,0 32.3529412,0.455262884 32.3529412,0.995457033 L32.3529412,3.19181994 Z M32.3529412,6.64841796 L32.3529412,22.9964051 C32.3529412,24.10296 31.4538714,25 30.3535353,25 L1.9994059,25 C0.895164512,25 0,24.1102368 0,22.9964051 L0,6.52640811 L13.033848,16.5866835 C14.7994658,18.0023528 17.6147703,17.9990926 19.3728716,16.5854455 L32.3529412,6.64841796 Z" id="Shape"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

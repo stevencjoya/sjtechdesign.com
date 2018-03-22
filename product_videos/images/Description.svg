@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="415px" height="58px" viewBox="0 0 415 58" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49 (51002) - http://www.bohemiancoding.com/sketch -->
+    <title>Description</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Product-Videos" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop" transform="translate(-82.000000, -208.000000)">
+            <g id="Description" transform="translate(82.000000, 208.000000)">
+                <text id="--Product-marketing" font-family="AvenirNext-Regular, Avenir Next, Arial" font-size="14" font-weight="normal" line-spacing="20" fill="#FFFFFF">
+                    <tspan x="107" y="18">- Product marketing and platform tutorial videos</tspan>
+                    <tspan x="107" y="48">- Public samples (no login or password required)</tspan>
+                </text>
+                <g id="Inverse">
+                    <g id="Rectangle-83-+-Rectangle-83-Copy" transform="translate(2.000000, 2.000000)"></g>
+                    <path d="M63.2727273,16.5604475 L87,8.28571429 L87,49.7142857 L63.2727273,41.5655487 L63.2727273,53.828783 C63.2727273,56.1324826 61.5144143,58 59.3147348,58 L3.95799247,58 C1.77205359,58 0,56.1359266 0,53.828783 L0,4.17121696 C0,1.86751745 1.75831295,0 3.95799247,0 L59.3147348,0 C61.5006737,0 63.2727273,1.86407343 63.2727273,4.17121696 L63.2727273,16.5604475 Z M16.3125,21.75 C19.3155483,21.75 21.75,19.3155483 21.75,16.3125 C21.75,13.3094517 19.3155483,10.875 16.3125,10.875 C13.3094517,10.875 10.875,13.3094517 10.875,16.3125 C10.875,19.3155483 13.3094517,21.75 16.3125,21.75 Z" id="Path" fill="#B8E986"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
