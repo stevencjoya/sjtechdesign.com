@@ -1,0 +1,1 @@
+Images for marketing_brochures subfolder
