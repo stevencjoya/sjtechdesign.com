@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="860px" height="422px" viewBox="0 0 860 422" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49 (51002) - http://www.bohemiancoding.com/sketch -->
+    <title>Support Sites Container</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Support-Sites" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop" transform="translate(-82.000000, -320.000000)">
+            <g id="Support-Sites-Container" transform="translate(82.000000, 316.000000)">
+                <rect id="Thumbnail-Container" fill="#666666" x="0" y="96" width="860" height="330"></rect>
+                <text id="Inkbrush:-Online-Knowledge-Base" font-family="AvenirNext-Bold, Avenir Next, Arial" font-size="20" font-weight="bold">
+                    <tspan x="0" y="67.874837" fill="#B8E986">Inkbrush: </tspan>
+                    <tspan x="97.38" y="67.874837" fill="#FFFFFF">Online Knowledge Base</tspan>
+                    <tspan x="331.54" y="67.874837" font-family="AvenirNext-Regular, Avenir Next, Arial" font-weight="normal" fill="#FFFFFF"> </tspan>
+                    <tspan x="0" y="94.874837" font-family="AvenirNext-Regular, Avenir Next, Arial" font-weight="normal" fill="#FFFFFF"> </tspan>
+                </text>
+                <text id="Movable-Ink:-Self-Service-Support-Site" font-family="AvenirNext-Bold, Avenir Next, Arial" font-size="20" font-weight="bold">
+                    <tspan x="0" y="20" fill="#B8E986">Movable Ink: </tspan>
+                    <tspan x="132.68" y="20" fill="#FFFFFF">Self-Service Support Site</tspan>
+                    <tspan x="372.08" y="20" font-family="AvenirNext-Regular, Avenir Next, Arial" font-weight="normal" fill="#FFFFFF"> </tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>
