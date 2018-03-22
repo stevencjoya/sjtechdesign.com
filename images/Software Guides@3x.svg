@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="155px" height="103px" viewBox="0 0 155 103" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49 (51002) - http://www.bohemiancoding.com/sketch -->
+    <title>Software Guides@3x</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Home" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop" transform="translate(-259.000000, -581.000000)">
+            <g id="Software-Guides" transform="translate(259.000000, 581.000000)">
+                <text id="software-guides" font-family="AvenirNext-Bold, Avenir Next, Arial" font-size="20" font-weight="bold" fill="#FFFFFF">
+                    <tspan x="0" y="98">software guides</tspan>
+                </text>
+                <g id="Inverse" transform="translate(57.000000, 0.000000)" fill="#B8E986">
+                    <path d="M9.6,0 L48,0 L48,48.3333333 L9.6,48.3333333 L9.6,0 Z M38.4666667,9.68333333 L19.1333333,9.68333333 L19.1333333,14.4833333 L38.4666667,14.4833333 L38.4666667,9.68333333 Z M38.4666667,19.35 L19.1333333,19.35 L19.1333333,24.15 L38.4666667,24.15 L38.4666667,19.35 Z M33.65,29.0166667 L19.15,29.0166667 L19.15,33.8166667 L33.65,33.8166667 L33.65,29.0166667 Z M4.8,53.1666667 L4.8,9.66666667 L0,9.66666667 L0,55.5833333 L0,58 L38.4,58 L38.4,53.1666667 L4.8,53.1666667 L4.8,53.1666667 Z" id="Rectangle-97"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
